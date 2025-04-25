@@ -1,0 +1,97 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #fff;
+    color: #552583;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #FDB927;
+    color: #552583;
+    text-align: center;
+    padding: 30px 20px;
+  }
+  
+  h1, h3 {
+    text-align: center;
+  }
+  
+  main {
+    padding: 30px;
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  section {
+    margin-bottom: 40px;
+  }
+  
+  .biografia img {
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-bottom: 20px;
+  }
+
+  
+    .div-video    {
+      display: block;
+      margin: 0px auto;
+      border: #fbff00;
+      border-style: solid;
+      background-color: #3d1766;
+      width: 610px;
+    }
+    .video{
+      display: block;
+      margin: 20px auto;
+    }
+  
+  
+  p {
+    font-size: 18px;
+    line-height: 1.8;
+    margin: 15px 0;
+  }
+  
+  button {
+    background-color: #552583;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: 0.3s;
+  }
+  
+  button:hover {
+    background-color: #3d1766;
+  }
+  
+  .catalogo {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+  }
+  
+  .tenis {
+    width: 280px;
+    background: #f3e5f5;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ddd;
+  }
+  
+  .tenis img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+
+
+
